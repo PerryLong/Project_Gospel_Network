@@ -2,7 +2,7 @@
 **Field:** Information Security / Cryptography / Data Integrity
 
 ## Project Overview
-The goal of **MissionGuard** is to ensure the **authenticity** and **integrity** of bible scripture in environments where digital communication may be monitored or tamperered. By using Public Key Infrastructure (PKI), I ensure that the recipient can verify that the message came from a trusted source and has not been altered by a third party.
+The goal of **MissionGuard** is to ensure the **authenticity** and **integrity** of bible scripture in environments where digital communication may be monitored or tampered with. By using Public Key Infrastructure (PKI), I ensure that the recipient can verify that the message came from a trusted source and has not been altered by a third party.
 
 ## ️ Technical Stack
 - **OS:** macOS (Apple M3)
